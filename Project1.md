@@ -14,7 +14,7 @@
 ### To verify Apache2 running status
 `sudo systemctl status apcahe2`
 
-![apache status](./Images/apache2-status.png)
+![apache status](./Images/sudo-systemctl-status-apache2.png)
 
 ### Accessing webserver from Ubuntu shell
 `curl http://localhost:80`
