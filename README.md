@@ -5,7 +5,7 @@ This is a summary guide on project 1 execution
 The goal of the project is  LAMP stack implementaion. 
 The webserver was installed on a virtual machine hosted on an AWS cloud instance.
 
-The LAMP implementation was broken down into 5 objectives:
+The LAMP implementation was broken down into 5 stepsgit:
 
 1: Installing Apache and updating firewall
 
