@@ -39,21 +39,22 @@
 
 `sudo mysql`
 
-![mysql console](./images/mysql-console.png)
+![mysql console](./Images/mysql-console.png)
+
 ### Running pre-installed mysql security script
 
 `ALTER USER 'root'@'localhost' IDENTIFIED WITH mysql_native_password BY 'xxxxxx';`
 
-![security script](./images/running-security-script.png)
+![security script](./Images/running-security-script.png)
 
 ### Validate Passwword Plugin
 
 `sudo mysql_secure_installation`
 
-![validate password plugin](./images/validate-password-plugin.png)
+![validate password plugin](./Images/validate-password-plugin.png)
 
 ### Confirming logon to mysql console
 
 `sudo mysql -p`
 
-![logon confirmation](./images/confirming-logon-to-mysql.png)
+![logon confirmation](./Images/confirming-logon-to-mysql.png)
