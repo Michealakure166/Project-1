@@ -161,7 +161,7 @@
 
 `sudo systemctl reload apache2`
 
-![effecting changes on apache](./Images/reload-apache.png)
+![effecting changes on apache](./Images/reload-apache2.png)
 
 ### Creating file named index.php inside custom web root folder
 
