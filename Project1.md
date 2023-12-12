@@ -94,7 +94,7 @@
 
 `sudo vi /etc/apache2/sites-available/projectlamp.conf`
 
-![configurattion file](./Images/config-file.png)
+![configuration file](./Images/config-file.png)
 
 ### The following bare-bones configuration was used
 
