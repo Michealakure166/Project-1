@@ -139,7 +139,7 @@
 
 ### Opening website from browser with public IP Address
 
-[website with public IP](http://54.87.226.229:80)
+[website with public IP](http://16.16.57.131/)
 
 ![website from browser over internet](./Images/echo.png)
 
